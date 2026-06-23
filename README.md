@@ -1,5 +1,5 @@
 # Enhanced Monocular Depth Estimation Network Based on Uncertainty Edge Weighting Mask.
-# puclication: Enhanced Monocular Depth Estimation Based on Uncertainty Edge Weighting Mask, Tsinghua Science and Technology (SciOpen), (https://www.sciopen.com/article/10.26599/TST.2025.9010036), Sept. 02, 2025 (Early Access)
+## puclication: Enhanced Monocular Depth Estimation Based on Uncertainty Edge Weighting Mask, Tsinghua Science and Technology (SciOpen), (https://www.sciopen.com/article/10.26599/TST.2025.9010036), Sept. 02, 2025 (Early Access)
 #### Ye-Ji Kim and Byung-Gyu Kim
 #### Intelligent Vision Processing Lab. (IVPL), Sookmyung Women's University, Seoul, Republic of Korea
 
